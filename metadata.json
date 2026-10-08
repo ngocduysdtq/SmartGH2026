@@ -1,0 +1,6 @@
+{
+  "name": "SmartGH-2026: Quản lý & Phân tích Nhà kính Thông minh",
+  "description": "Nền tảng Quản lý & Phân tích Dữ liệu Nhà kính Thông minh 2026 tích hợp Digital Twin 3D, GenAI Agronomist, Hyper-automation và Blockchain Traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
